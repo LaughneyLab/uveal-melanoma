@@ -1,5 +1,5 @@
 # uveal-melanoma
-Single Cell RNA-Seq Data Analysis For The Uveal Melanoma Project.
+Single Cell RNA-Seq Data Analysis For Loss of Polycomb Repressive Complex 1 activity and chromosomal instability drive uveal melanoma progression.
 
 Lab Website: https://laughneylab.com/
 
