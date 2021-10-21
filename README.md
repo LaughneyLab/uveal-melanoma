@@ -3,7 +3,7 @@ Single Cell RNA-Seq Data Analysis For Loss of Polycomb Repressive Complex 1 acti
 
 Lab Website: https://laughneylab.com/
 
-Publication: *Link to Publication when available*
+Publication: https://doi.org/10.1038/s41467-021-25529-z
 
 Data Access:    https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE160883
 
