@@ -25,4 +25,6 @@ The uveal-melanoma repository contains the code used for the single cell data an
 # Guide
 The uvmel_tumorcells_v4.ipynb notebook is the Python notebook used for the main analyses and figure generation. This notebook can be run within a container spun from the uvmel Docker image.
 
-`<git clone https://github.com/LaughneyLab/uveal-melanoma.git>`
+```
+git clone https://github.com/LaughneyLab/uveal-melanoma.git
+```
