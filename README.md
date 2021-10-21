@@ -3,7 +3,7 @@
 Bakhoum MF*, Francis JH*, Agustinus A, Earlie EM, Di Bona M, Abramson DH, Duran M, Masilionis I, Molina E, Shoushtari AN, Goldbaum MH, Mischel PS, Bakhoum SF, Laughney AM. Loss of Polycomb Repressive Complex 1 activity and chromosomal instability drive uveal melanoma progression.
 Nature Communications 12, 5402 (2021). https://doi.org/10.1038/s41467-021-25529-z
 
-* Authors contributed equally to this study.
+\* Authors contributed equally to this study.
 
 Data Access:    https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE160883
 
