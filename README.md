@@ -33,5 +33,3 @@ docker pull ghcr.io/laughneylab/uveal-melanoma/uvmel:latest
 git clone https://github.com/LaughneyLab/uveal-melanoma.git
 ```
 
-The following commands will download the h5 file to use as the data input for the jupyter notebook.
-
